@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000322714978",
+    "firebase_url": "https://notificaciones-3f778.firebaseio.com",
+    "project_id": "notificaciones-3f778",
+    "storage_bucket": "notificaciones-3f778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000322714978:android:cae2b76d68b7340a",
+        "android_client_info": {
+          "package_name": "com.unicartagena.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000322714978-f4g6ne60qmfqn95itgfo2piv3qmqhvdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Jbo6KCCdmU2Ga7EBZ14NaeIDAShKst4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
